@@ -1,4 +1,4 @@
-{rustPlatform}:
+{ rustPlatform }:
 rustPlatform.buildRustPackage {
   pname = "anyrun-nixos-options";
   version = "0.1.0";
